@@ -1,0 +1,38 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: burlywood;
+}
+
+.header_div {
+    font-family: 'Rubik Bubbles', cursive;
+    background-color: rgb(110, 168, 22);
+    font-size: 50px;
+}
+.header_div p {
+    font-family: 'Marhey', cursive;
+    color: rgb(0, 255, 255);
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.main_div button {
+ font-family: 'Secular One', sans-serif;
+ margin-top: 30px;
+ width: 130px;
+ font-weight: bolder;
+ letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    background-color: cornsilk;
+    color: rgb(78, 77, 77);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(27, 27, 27);
+}
